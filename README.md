@@ -1,3 +1,2 @@
 # web_capture
-Created with CodeSandbox
-r3f-use-capture
+Capture using r3f-use-capture
